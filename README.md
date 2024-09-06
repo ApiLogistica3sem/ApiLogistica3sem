@@ -96,7 +96,8 @@ Valores:
 
 
 # *Tecnologias Utilizadas*
-![tecnologiasatt](https://github.com/user-attachments/assets/b3de6214-c4ed-4cf0-99e7-79ac92a2b386)
+![tecnologiasatt](https://github.com/user-attachments/assets/281f2893-b433-49a2-b7f1-befe6128fb76)
+
 
 - [Jira](https://id.atlassian.com/)
 - [Python](https://www.python.org/)
