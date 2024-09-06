@@ -27,22 +27,22 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # _Sprints_
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | Concluído |-----------------| 
-|01 | 15/04/2024 | Concluído | [Ver Relatório](https://github.com/ApiLogistica2sem/API/files/14968927/RELATORIO.SPRINT.1.LOGFREE.docx)|
-|02|  06/05/2024| Concluído |[Ver Relatório](https://github.com/ApiLogistica2sem/API/files/15227536/RELATORIO.SPRINT.2.LOGFREE.docx)|
-|03| 27/05/2024 | Concluído |[Ver Relatório](https://github.com/user-attachments/files/15878074/RELATORIO.SPRINT.3.LOGFREE.1.docx)|
-|04| 17/06/2024 | Concluído |[Ver Relatório](https://github.com/user-attachments/files/15878071/RELATORIO.SPRINT.4.LOGFREE.docx)|
-|Feira de Soluções|27/06/2024 | Pendente |[Ver Apresentação](https://github.com/user-attachments/files/15878248/Geografia.de.fluxos.pdf)
+|Kick Off | 30/08/2024 | Concluído |-----------------| 
+|01 | 27/09/2024 | Pendente | [Ver Relatório](https://github.com/ApiLogistica2sem/API/files/14968927/RELATORIO.SPRINT.1.LOGFREE.docx)|
+|02|  18/10/2024| Pendente |[Ver Relatório](https://github.com/ApiLogistica2sem/API/files/15227536/RELATORIO.SPRINT.2.LOGFREE.docx)|
+|03| 08/11/2024 | Pendente |[Ver Relatório](https://github.com/user-attachments/files/15878074/RELATORIO.SPRINT.3.LOGFREE.1.docx)|
+|04| 29/11/2024 | Pendente |[Ver Relatório](https://github.com/user-attachments/files/15878071/RELATORIO.SPRINT.4.LOGFREE.docx)|
+|Feira de Soluções|12/12/2024 | Pendente |[Ver Apresentação](https://github.com/user-attachments/files/15878248/Geografia.de.fluxos.pdf)
 |
 
 # _Autores_
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                     
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   GUSTAVO NOVAKOSKI         |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-novakoski-759839252) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoNovakoski)               |
-| Scrum Master  | MATHEUS REIS |       [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-reis-82b571161) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheus2208)     |
-| Developer   | CAUÊ SANTOS              |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caue-santos-a01228288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)|
+| Product Owner |   CÍCERO BORGES              |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%ADcero-borges-04953a24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CiceroAborges)        |
+| Scrum Master  | CARLOS GIOVANNI       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-giovanni-2693601ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carlosgiovanni2001)
+| Developer   | GUSTAVO NOVAKOSKI         |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-novakoski-759839252) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoNovakoski)               |
 | Developer   | CÍCERO BORGES              |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%ADcero-borges-04953a24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CiceroAborges)        |
-|  Developer   | CARLOS GIOVANNI       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-giovanni-2693601ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carlosgiovanni2001)
+|  Developer   | MATHEUS REIS |       [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-reis-82b571161) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheus2208)     |
 |  Developer   | VINÍCIUS RODOLFO      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-rodolfo) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusRSS)
 
 # *Equipe*
