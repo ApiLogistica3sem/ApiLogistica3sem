@@ -96,7 +96,7 @@ Valores:
 
 
 # *Tecnologias Utilizadas*
-![Tecnologias](https://github.com/ApiLogistica2sem/API/assets/163214077/5fe7ca89-f449-4508-8409-1b2af7eabeae)
+![tecnologiasatt](https://github.com/user-attachments/assets/b3de6214-c4ed-4cf0-99e7-79ac92a2b386)
 
 - [Jira](https://id.atlassian.com/)
 - [Python](https://www.python.org/)
