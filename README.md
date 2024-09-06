@@ -99,6 +99,7 @@ Valores:
 ![Tecnologias](https://github.com/ApiLogistica2sem/API/assets/163214077/5fe7ca89-f449-4508-8409-1b2af7eabeae)
 
 - [Jira](https://id.atlassian.com/)
+- [Python](https://www.python.org/)
 - [GitHub](https://github.com/)
 - [Slack](https://slack.com/intl/pt-br)
 - [Power BI](https://app.powerbi.com/)
