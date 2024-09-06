@@ -32,8 +32,7 @@ Sprint | Previsão | Status| Histórico|
 |02|  18/10/2024| Pendente |[Ver Relatório](https://github.com/ApiLogistica2sem/API/files/15227536/RELATORIO.SPRINT.2.LOGFREE.docx)|
 |03| 08/11/2024 | Pendente |[Ver Relatório](https://github.com/user-attachments/files/15878074/RELATORIO.SPRINT.3.LOGFREE.1.docx)|
 |04| 29/11/2024 | Pendente |[Ver Relatório](https://github.com/user-attachments/files/15878071/RELATORIO.SPRINT.4.LOGFREE.docx)|
-|Feira de Soluções|12/12/2024 | Pendente |[Ver Apresentação](https://github.com/user-attachments/files/15878248/Geografia.de.fluxos.pdf)
-|
+|Feira de Soluções|12/12/2024 | Pendente |[Ver Apresentação](https://github.com/user-attachments/files/15878248/Geografia.de.fluxos.pdf)|
 
 # _Autores_
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                     
