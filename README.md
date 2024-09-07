@@ -46,8 +46,7 @@ Sprint | Previsão | Status| Histórico|
 
 # *Equipe*
 
-
-![Equipe ATT](https://github.com/ApiLogistica2sem/API/assets/163214077/c584e30d-8d45-4e58-a153-a5aaf7039fbe)
+![WhatsApp Image 2024-09-06 at 20 56 23](https://github.com/user-attachments/assets/425f69fd-280c-46f2-b77f-00b5c132297e)
 
 
 
