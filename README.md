@@ -28,11 +28,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 30/08/2024 | Concluído |-----------------| 
-|01 | 27/09/2024 | Pendente | [Ver Relatório](https://github.com/ApiLogistica2sem/API/files/14968927/RELATORIO.SPRINT.1.LOGFREE.docx)|
-|02|  18/10/2024| Pendente |[Ver Relatório](https://github.com/ApiLogistica2sem/API/files/15227536/RELATORIO.SPRINT.2.LOGFREE.docx)|
-|03| 08/11/2024 | Pendente |[Ver Relatório](https://github.com/user-attachments/files/15878074/RELATORIO.SPRINT.3.LOGFREE.1.docx)|
-|04| 29/11/2024 | Pendente |[Ver Relatório](https://github.com/user-attachments/files/15878071/RELATORIO.SPRINT.4.LOGFREE.docx)|
-|Feira de Soluções|12/12/2024 | Pendente |[Ver Apresentação](https://github.com/user-attachments/files/15878248/Geografia.de.fluxos.pdf)|
+|01 | 27/09/2024 | Pendente | [Ver Relatório]|
+|02|  18/10/2024| Pendente |[Ver Relatório]|
+|03| 08/11/2024 | Pendente |[Ver Relatório]|
+|04| 29/11/2024 | Pendente |[Ver Relatório]|
+|Feira de Soluções|12/12/2024 | Pendente |[Ver Apresentação]|
 
 # _Autores_
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                     
@@ -111,60 +111,29 @@ Valores:
 ## *Sprint um*:
 - [x] Estruturação do GitHub.
 - [x] Estruturação do Jira Software;
-- [x] Definição da estrutura de trabalho;
+- [x] Estudo do SQL;
+- [x] Tratamento de dados através do SQL;
 - [x] Analíse SWOT;
-- [x] Desenvolvimento 5W2H. 
+- [x] Desenvolvimento 5W2H; 
 - [x] Documentar todas as informações e processos;
      
 ## *Sprint dois*:
-- [x] Estudo sobre suavização exponencial;
-- [x] Estudo sobre linhas de tendencias.
-- [x] Identificação dos modais;
-- [x] Criação do MVP;
+- [x] Tratamento de dados através de Python;
+- [x] Criar Power BI consultando dados do SQL;
+- [x] Criar Power BI consultando dados do Python;
+- [x] Criar indicadores de rotas;
+- [x] Criar método de calculo real por km;
 - [x] Documentar todas as informações e processos;
 
 ## *Sprint três*:
 - [x] Ajuste do dashboard de acordo com resoluções do cliente;
-- [x] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
-- [x] Desenvolver a linha de tendência no produto.
+- [x] Aplicação do método de transportes para a otimização da distribuição no Python;
 - [x] Documentar todas as informações e processos;
 
 ## *Sprint quatro*:
 - [x] Ajuste do dashboard de acordo com resoluções do cliente;
-- [x] Apresentação do produto final;
+- [x] Criar apresentação para a Feira de Soluições;
 - [x] Documentar todas as informações e processos;
-
-# *MVP*
-
-# Sprint 01
-
-![Dashboard 01](https://github.com/ApiLogistica2sem/API/assets/163214077/8ee281cb-c036-4b9e-9ff2-56f5fd8c4c78)
-
-# Sprint 02
-![Menu inicial](https://github.com/ApiLogistica2sem/API/assets/163214077/bb1c2ed0-473a-4cb0-883b-77499e741fd0)
-![Exportações](https://github.com/ApiLogistica2sem/API/assets/163214077/918ec20b-43e4-4dff-acbb-1b9e5d2ec807)
-![Gráficos](https://github.com/ApiLogistica2sem/API/assets/163214077/26c8d935-f6dd-4d9c-b307-2a70de1f14c3)
-
-# Sprint 03
-![Dash inicio ATT](https://github.com/ApiLogistica2sem/API/assets/163214077/7b44007a-f3f9-46f5-a10b-3ded7d295c1a)
-![Dash principal ATT](https://github.com/ApiLogistica2sem/API/assets/163214077/96f4c9ae-3a28-4501-8a18-c40a82e50161)
-![Dash previsões ATT](https://github.com/ApiLogistica2sem/API/assets/163214077/ac5ed26b-ccaa-4797-9a97-caaaa3552ca0)
-- [x] Apresentação Dashboard: https://github.com/ApiLogistica2sem/API/assets/163214077/41f066cd-f49c-47f0-a94e-b5248647847c
-
-# Sprint 04
-![Dash inicio](https://github.com/ApiLogistica2sem/API/assets/163214077/5abb8b49-c8ed-4d95-987a-91a1ac278591)
-![Dash exportações](https://github.com/ApiLogistica2sem/API/assets/163214077/23777940-4750-4a9d-b118-be8c2e5636a5)
-![Dash previsões](https://github.com/ApiLogistica2sem/API/assets/163214077/fabfac5b-c84b-4690-88ec-9a59062421ee)
-
-
-
-# Roteiro Power BI
-- [x] [Passo a passo - Power.BI.docx](https://github.com/user-attachments/files/15980237/Passo.a.passo.-.Power.BI.docx)
-
-
-
-
-
 
 # Competências desenvolvidas
 
@@ -175,6 +144,7 @@ Valores:
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
