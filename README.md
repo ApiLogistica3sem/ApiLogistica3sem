@@ -15,8 +15,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [5W2H](#5W2H)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Backlog do produto](#Backlog)
-* [MVP](#MVP)
-* [Gráfico de Burndown](#Burndown)
 * [Competências desenvolvidas](#Competências-desenvolvidas)
 
 # _Projeto (API)_
@@ -78,20 +76,8 @@ Valores:
 * [5W2H Arquivo](https://github.com/ApiLogistica2sem/API/files/14983847/5W2H.LOGFREE.xlsx)
 
 *2ª Sprint*
-![5W2H - 2sprint](https://github.com/ApiLogistica2sem/API/assets/163214077/0d02b899-6aba-46d2-a782-908cc95641ef)
-* [5W2H Arquivo](https://github.com/ApiLogistica2sem/API/files/15223116/5W2H.SPRINT.2.xlsx)
-
 *3ª Sprint*
- 
-![WhatsApp Image 2024-05-26 at 21 21 03](https://github.com/ApiLogistica2sem/API/assets/163214077/f840e8f8-7487-4e7c-9d7c-5c698d2fe1c1)
-* [5w2h sprint 3.xlsx](https://github.com/ApiLogistica2sem/API/files/15462277/5w2h.sprint.3.xlsx)
-
 *4ª Sprint*
-![5W2H 4SPRINT](https://github.com/ApiLogistica2sem/API/assets/163214077/c8034b9e-9ea2-44e5-9599-3e7c8d526412)
-* [5w2h sprint 4.xlsx](https://github.com/user-attachments/files/15878049/5w2h.sprint.4.xlsx)
-
-
-
 
 
 # *Tecnologias Utilizadas*
