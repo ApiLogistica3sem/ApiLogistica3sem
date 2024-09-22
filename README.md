@@ -97,7 +97,7 @@ Valores:
 ## *Sprint um*:
 - [x] Estruturação do GitHub.
 - [x] Estruturação do Jira Software;
-- [x] Estudo do Python
+- [x] Estudo do Python;
 - [x] Estudo do SQL;
 - [x] Tratamento de dados através do SQL;
 - [x] Análise SWOT;
