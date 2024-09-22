@@ -99,27 +99,27 @@ Valores:
 - [x] Estruturação do Jira Software;
 - [x] Estudo do SQL;
 - [x] Tratamento de dados através do SQL;
-- [x] Analíse SWOT;
+- [x] Análise SWOT;
 - [x] Desenvolvimento 5W2H; 
 - [x] Documentar todas as informações e processos;
      
 ## *Sprint dois*:
-- [x] Tratamento de dados através de Python;
-- [x] Criar Power BI consultando dados do SQL;
-- [x] Criar Power BI consultando dados do Python;
-- [x] Criar indicadores de rotas;
-- [x] Criar método de calculo real por km;
-- [x] Documentar todas as informações e processos;
+- [ ] Tratamento de dados através de Python;
+- [ ] Criar Power BI consultando dados do SQL;
+- [ ] Criar Power BI consultando dados do Python;
+- [ ] Criar indicadores de rotas;
+- [ ] Criar método de calculo real por km;
+- [ ] Documentar todas as informações e processos;
 
 ## *Sprint três*:
-- [x] Ajuste do dashboard de acordo com resoluções do cliente;
-- [x] Aplicação do método de transportes para a otimização da distribuição no Python;
-- [x] Documentar todas as informações e processos;
+- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
+- [ ] Aplicação do método de transportes para a otimização da distribuição no Python;
+- [ ] Documentar todas as informações e processos;
 
 ## *Sprint quatro*:
-- [x] Ajuste do dashboard de acordo com resoluções do cliente;
-- [x] Criar apresentação para a Feira de Soluições;
-- [x] Documentar todas as informações e processos;
+- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
+- [ ] Criar apresentação para a Feira de Soluições;
+- [ ] Documentar todas as informações e processos;
 
 # Competências desenvolvidas
 
