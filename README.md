@@ -113,12 +113,12 @@ Valores:
 - [x] Documentar todas as informações e processos;
      
 ## *Sprint dois*:
-- [ ] Tratamento de dados através de Python;
-- [ ] Criar Power BI consultando dados do SQL;
-- [ ] Criar Power BI consultando dados do Python;
-- [ ] Criar indicadores de rotas;
-- [ ] Criar método de calculo real por km;
-- [ ] Documentar todas as informações e processos;
+- [x] Tratamento de dados através de Python;
+- [x] Criar Power BI consultando dados do SQL;
+- [x] Criar Power BI consultando dados do Python;
+- [x] Criar indicadores de rotas;
+- [x] Criar método de calculo real por km;
+- [x] Documentar todas as informações e processos;
 
 ## *Sprint três*:
 - [ ] Ajuste do dashboard de acordo com resoluções do cliente;
