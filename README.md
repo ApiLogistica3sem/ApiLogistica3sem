@@ -81,9 +81,9 @@ Valores:
 
 *2ª Sprint*
 
-![5w2h sprint 2](https://github.com/user-attachments/assets/55a366d6-5ef9-4adb-9afd-b591e74ef023)
+![5w2h sprint 2](https://github.com/user-attachments/assets/74456bec-d85e-4b58-8db5-16621aac1ab0)
 
-* 5W2H Arquivo [5W2H.sprint2.xlsx](https://github.com/user-attachments/files/17427245/5W2H.LOGFREE.xlsx)
+* 5W2H Arquivo [5w2h.sprint2.xlsx](https://github.com/user-attachments/files/17441577/5w2h.sprint2.xlsx)
 
 *3ª Sprint*
 *4ª Sprint*
