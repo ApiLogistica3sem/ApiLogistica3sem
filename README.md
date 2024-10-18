@@ -67,7 +67,8 @@ Valores:
 # *Análise SWOT da Empresa*
 
 
-![SWOT](https://github.com/ApiLogistica2sem/API/assets/163214077/e5ba2c86-cb41-4b5a-a3bc-3434d72da7cb)
+![SWOT](https://github.com/user-attachments/assets/80960a2d-7e08-45b7-a322-3f05789bb32f)
+
 
 
 # *5W2H*
