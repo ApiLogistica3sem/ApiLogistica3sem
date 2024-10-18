@@ -1,4 +1,4 @@
-# ApiLogistica3sem
+[Clientes.csv](https://github.com/user-attachments/files/17441622/Clientes.csv)# ApiLogistica3sem
 # LOGFREE Documentação
 
 # *Aprendizado por Projeto Integrador (API) - logFREE*
@@ -14,7 +14,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [SWOT](#Análise-SWOT-da-Empresa)
 * [5W2H](#5W2H)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Burndown
+* [Burndown](#Burndown)
+* [Arquivos]
 * [Backlog do produto](#Backlog)
 * [Competências desenvolvidas](#Competências-desenvolvidas)
 
@@ -91,7 +92,7 @@ Valores:
 
 
 # *Tecnologias Utilizadas*
-![tecnologiasatt](https://github.com/user-attachments/assets/281f2893-b433-49a2-b7f1-befe6128fb76)
+![TECNOLOGIAS ATT](https://github.com/user-attachments/assets/2e09e388-c429-448d-b38e-4daba5e6fcb2)
 
 
 - [Jira](https://id.atlassian.com/)
@@ -103,8 +104,21 @@ Valores:
 - [Teams](https://teams.microsoft.com/)
 - [Canva](https://www.canva.com/pt_br/)
 
-- # *Burndown*
+ 
+ # *Burndown*
 - ![Burndown](https://github.com/user-attachments/assets/b53ea837-d074-4935-b525-e2ceaf983f85)
+
+# *Arquivos*
+
+- [Python]
+
+  [Uploading Distancias_Reais_Fabricas_Clientes - Python.csv…]()
+
+
+-[SQL]
+[Uploading Clientes.csv…]()
+[Uploading Fabricas.csv…]()
+[Rotas.csv](https://github.com/user-attachments/files/17441629/Rotas.csv)
 
 
 # *Backlog*
