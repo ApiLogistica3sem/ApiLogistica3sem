@@ -14,6 +14,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [SWOT](#Análise-SWOT-da-Empresa)
 * [5W2H](#5W2H)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Burndown
 * [Backlog do produto](#Backlog)
 * [Competências desenvolvidas](#Competências-desenvolvidas)
 
@@ -101,6 +102,10 @@ Valores:
 - [Pacote Office](https://www.microsoft.com/)
 - [Teams](https://teams.microsoft.com/)
 - [Canva](https://www.canva.com/pt_br/)
+
+- # *Burndown*
+- ![Burndown](https://github.com/user-attachments/assets/b53ea837-d074-4935-b525-e2ceaf983f85)
+
 
 # *Backlog*
 ## *Sprint um*:
