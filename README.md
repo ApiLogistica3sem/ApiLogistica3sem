@@ -27,7 +27,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 30/08/2024 | Concluído |-----------------| 
 |01 | 27/09/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/files/17158149/RELATORIO.SPRINT.1.LOGFREE.docx)|
-|02|  18/10/2024| Pendente |[Ver Relatório]|
+|02|  18/10/2024| Concluído |[Ver Relatório](https://github.com/user-attachments/files/17427288/RELATORIO.SPRINT.2.LOGFREE.docx)|
 |03| 08/11/2024 | Pendente |[Ver Relatório]|
 |04| 29/11/2024 | Pendente |[Ver Relatório]|
 |Feira de Soluções|12/12/2024 | Pendente |[Ver Apresentação]|
@@ -79,6 +79,11 @@ Valores:
 
 
 *2ª Sprint*
+
+![5w2h sprint 2](https://github.com/user-attachments/assets/55a366d6-5ef9-4adb-9afd-b591e74ef023)
+
+* 5W2H Arquivo [5W2H.sprint2.xlsx](https://github.com/user-attachments/files/17427245/5W2H.LOGFREE.xlsx)
+
 *3ª Sprint*
 *4ª Sprint*
 
