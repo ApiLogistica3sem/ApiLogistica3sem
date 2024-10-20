@@ -1,4 +1,4 @@
-[Clientes.csv](https://github.com/user-attachments/files/17441622/Clientes.csv)# ApiLogistica3sem
+
 # LOGFREE Documentação
 
 # *Aprendizado por Projeto Integrador (API) - logFREE*
@@ -87,9 +87,10 @@ Valores:
 
 * 5W2H Arquivo [5w2h.sprint2.xlsx](https://github.com/user-attachments/files/17441577/5w2h.sprint2.xlsx)
 
-*3ª Sprint*
-*4ª Sprint*
-
+- *3ª Sprint*
+ Em processo
+- *4ª Sprint*
+ Em processo
 
 # *Tecnologias Utilizadas*
 ![TECNOLOGIAS ATT](https://github.com/user-attachments/assets/2e09e388-c429-448d-b38e-4daba5e6fcb2)
@@ -106,21 +107,7 @@ Valores:
 
  
  # *Burndown*
-- ![Burndown](https://github.com/user-attachments/assets/b53ea837-d074-4935-b525-e2ceaf983f85)
-
-# *Arquivos*
-
-- [Python]
-
-  [Uploading Distancias_Reais_Fabricas_Clientes - Python.csv…]()
-
-
--[SQL]
-
-[Uploading Clientes.csv…]()
-[Uploading Fabricas.csv…]()
-[Rotas.csv](https://github.com/user-attachments/files/17441629/Rotas.csv)
-
+![Burndown](https://github.com/user-attachments/assets/b53ea837-d074-4935-b525-e2ceaf983f85)
 
 # *Backlog*
 ## *Sprint um*:
