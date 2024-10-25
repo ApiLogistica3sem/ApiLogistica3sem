@@ -69,7 +69,7 @@ Valores:
 # *Análise SWOT da Empresa*
 
 
-![SWOT](https://github.com/user-attachments/assets/80960a2d-7e08-45b7-a322-3f05789bb32f)
+![SWOT](https://github.com/user-attachments/assets/1f5e7a8b-f076-448e-994f-fbca5b04ea29)
 
 
 
