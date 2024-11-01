@@ -134,9 +134,9 @@ Valores:
 - [x] Documentar todas as informações e processos;
 
 ## *Sprint três*:
-- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
-- [ ] Aplicação do método de transportes para a otimização da distribuição no Python;
-- [ ] Documentar todas as informações e processos;
+- [x] Ajuste do dashboard de acordo com resoluções do cliente;
+- [x] Aplicação do método de transportes para a otimização da distribuição no Python;
+- [x] Documentar todas as informações e processos;
 
 ## *Sprint quatro*:
 - [ ] Ajuste do dashboard de acordo com resoluções do cliente;
