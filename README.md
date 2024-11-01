@@ -88,7 +88,12 @@ Valores:
 * 5W2H Arquivo [5w2h.sprint2.xlsx](https://github.com/user-attachments/files/17441577/5w2h.sprint2.xlsx)
 
 - *3ª Sprint*
- Em processo
+  
+![Sprint 3 5w2h](https://github.com/user-attachments/assets/8dba8fc1-baa7-4364-8caf-610777142c72)
+
+* 5W2H Arquivo [5w2h.sprint3.xlsx](https://github.com/user-attachments/files/17604877/5w2h.sprint3.xlsx)
+
+ 
 - *4ª Sprint*
  Em processo
 
