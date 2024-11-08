@@ -114,6 +114,9 @@ Valores:
  # *Burndown*
 ![Burndown](https://github.com/user-attachments/assets/b53ea837-d074-4935-b525-e2ceaf983f85)
 
+![burndown](https://github.com/user-attachments/assets/864e4c7f-9e39-4c8a-b7c3-7976362271d1)
+
+
 # *Backlog*
 ## *Sprint um*:
 - [x] Estruturação do GitHub.
