@@ -95,7 +95,11 @@ Valores:
 
  
 - *4ª Sprint*
- Em processo
+
+![5w2h sprint 4](https://github.com/user-attachments/assets/feb231e9-ce58-4abe-90c6-a64bb4920cac)
+
+* 5W2H Arquivo [5w2h API SPRINT 4.xlsx](https://github.com/user-attachments/files/17954076/5w2h.API.SPRINT.4.xlsx)
+
 
 # *Tecnologias Utilizadas*
 ![TECNOLOGIAS ATT](https://github.com/user-attachments/assets/2e09e388-c429-448d-b38e-4daba5e6fcb2)
