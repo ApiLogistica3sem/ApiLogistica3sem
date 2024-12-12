@@ -150,9 +150,9 @@ Valores:
 - [x] Documentar todas as informações e processos;
 
 ## *Sprint quatro*:
-- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
-- [ ] Criar apresentação para a Feira de Soluições;
-- [ ] Documentar todas as informações e processos;
+- [x] Ajuste do dashboard de acordo com resoluções do cliente;
+- [x] Criar apresentação para a Feira de Soluições;
+- [x] Documentar todas as informações e processos;
 
 # Competências desenvolvidas
 
